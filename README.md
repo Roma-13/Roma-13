@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roma Asieshvili</h1>
 <h3 align="center">A frontend developer from Georgia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif" />
+<img align="right" alt="Coding" width="400" src="https://cdn-icons-png.flaticon.com/512/560/560216.png" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=roma-13&label=Profile%20views&color=0e75b6&style=flat" alt="roma-13" /> 
