@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roma Asieshvili</h1>
 <h3 align="center">A frontend developer from Georgia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/200w.gif?cid=6c09b952qdrpxr2x93nqhmvvpgupv7r8zcabzjiezgg7a5vx&ep=v1_gifs_search&rid=200w.gif&ct=g />
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/200w.gif?cid=6c09b952qdrpxr2x93nqhmvvpgupv7r8zcabzjiezgg7a5vx&ep=v1_gifs_search&rid=200w.gif&ct=g/>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=roma-13&label=Profile%20views&color=0e75b6&style=flat" alt="roma-13" /> 
